@@ -8,11 +8,17 @@ The P-Series products are sold through [TS Automation on Payhip](https://payhip.
 
 | Product | Focus | Price |
 | --- | --- | ---: |
-| [P-01 Critical Action Outcome Verifier](products/P-01-Critical-Action-Outcome-Verifier/) | Outcome verification | $79 |
-| [P-02 Approval → Execution Integrity](products/P-02-Approval-Execution-Integrity/) | Approval and execution integrity | $99 |
-| [P-03 Verified Learning Memory](products/P-03-Verified-Learning-Memory/) | Verified learning records | $89 |
-| [P-04 Controlled Failure Recovery](products/P-04-Controlled-Failure-Recovery/) | Controlled failure recovery | $99 |
-| [P-05 AI Action Cost & Token Efficiency Guard](products/P-05-AI-Action-Cost-Token-Efficiency-Guard/) | AI action cost and token efficiency | $59 |
+| [P-01 Critical Action Outcome Verifier](p-01.html) | Outcome verification | $79 |
+| [P-02 Approval → Execution Integrity](p-02.html) | Approval and execution integrity | $99 |
+| [P-03 Verified Learning Memory](p-03.html) | Verified learning records | $89 |
+| [P-04 Controlled Failure Recovery](p-04.html) | Controlled failure recovery | $99 |
+| [P-05 AI Action Cost & Token Efficiency Guard](p-05.html) | AI action cost and token efficiency | $59 |
+
+## Explore online
+
+The product hub is published with GitHub Pages at:
+
+`https://tsautomationhub.github.io/TS-Automation-P-Series/`
 
 ## What is public here
 
