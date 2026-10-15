@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tsautomationhub.github.io/TS-Automation-P-Series/sitemap.xml
